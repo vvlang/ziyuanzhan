@@ -6,6 +6,8 @@ ziyuanzu.com 资源站监测脚本
 2. 检测各资源站可用性（HTTP 状态码 + 响应时间）
 3. 生成静态 HTML 页面
 4. 保存 JSON 数据供历史对比
+
+vvlang fork first sync trigger - 2026-10-05
 """
 
 import json
