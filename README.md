@@ -2,6 +2,11 @@
 
 ziyuanzu.com 资源站实时监测面板。通过 [ziyuanzu API](https://www.ziyuanzu.com/api/v1) 获取资源站数据，定期检测各站点可用性，生成静态 JSON + HTML 页面。
 
+
+> **📌 这是 [vvlang](https://github.com/vvlang) 在原项目 [mylazily/ziyuanzhan](https://github.com/mylazily/ziyuanzhan) 的 fork**
+> 部署在 https://vvlang.github.io/ziyuanzhan/
+> 监控数据每 6 小时自动更新；本 fork 同步上游 main 分支。
+
 ## 工作原理
 
 ```
